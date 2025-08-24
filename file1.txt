@@ -1,3 +1,5 @@
 file1
 update from main branch
 update from test branch
+more1 \n
+more2
