@@ -27,10 +27,10 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: echo "Hello, world! from main branch - one-line script"
+        run: echo "Yet again!! from actions branch Hello, world! from actions branch - one-line script"
 
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          echo "Hello World!!! from main branch"
+          echo "Hello World!!! from actions branch"
           echo test, and deploy your project.
