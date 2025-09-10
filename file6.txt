@@ -17,3 +17,5 @@ line4
 >>>>>>> 281c5d9 (add line4 to file6.txt)
 line11
 line12
+line11
+line12
